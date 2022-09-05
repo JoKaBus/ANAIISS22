@@ -5,7 +5,8 @@ Seite zum Tutorium vom 12.09 bis 16.09 zur Vorbereitung auf die Analysis II Nach
 Kontakt: jonathan.busse(at)hhu.de
 ```
 
-Auf dieser Seite finden Sie das aktuelle Miniskript und alle Informationen zum Kursablauf.
+Auf dieser Seite findet ihr das aktuelle Miniskript und alle Informationen zum Kursablauf.
+Rückfragen könnt ihr mir per Mail oder im [Rocketchat](https://rocketchat.hhu.de/invite/dxCi6C) stellen.
 
 ## Kursmaterialien
 Definitionen, Sätze, Übungsaufgaben, Musterlösungen zu Differentialrechnung und gewöhnlichen Differentialgleichungen im Rn finden Sie im
