@@ -8,10 +8,9 @@ Kontakt: jonathan.busse(at)hhu.de
 Auf dieser Seite finden Sie Organisatorisches und ein Miniskript mit Definitionen, Sätze, Übungsaufgaben und Musterlösungen zu Differentialrechnung und gewöhnlichen Differentialgleichungen im Rn.
 
 ## Kursmaterialien
-Inhalt: Definitionen, Sätze, Übungsaufgaben, Musterlösungen zu Differentialrechnung und gewöhnlichen Differentialgleichungen im Rn.
-
-- [Analysis II Miniskript](https://github.com/JoKaBus/ANAII2021/blob/main/AnalysisIIMiniskript.pdf):
-Stand: 05.09.2022, 10:00 Uhr.
+[Analysis II Miniskript](https://github.com/JoKaBus/ANAII2021/blob/main/AnalysisIIMiniskript.pdf) 
+(Stand: 05.09.2022, 10:00 Uhr)
+mit Definitionen, Sätze, Übungsaufgaben, Musterlösungen zu Differentialrechnung und gewöhnlichen Differentialgleichungen im Rn.
 
 > Das Miniskript ist spätestens am nächsten Morgen nach der Sitzung auf den aktuellen Stand.
 
