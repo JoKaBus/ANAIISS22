@@ -8,9 +8,12 @@ Kontakt: jonathan.busse(at)hhu.de
 Auf dieser Seite finden Sie Organisatorisches und ein Miniskript mit Definitionen, Sätze, Übungsaufgaben und Musterlösungen zu Differentialrechnung und gewöhnlichen Differentialgleichungen im Rn.
 
 ## Kursmaterialien
-Das Miniskript ist spätestens am nächsten Morgen nach der Sitzung auf den aktuellen Stand.
+Inhalt: Definitionen, Sätze, Übungsaufgaben, Musterlösungen zu Differentialrechnung und gewöhnlichen Differentialgleichungen im Rn.
+
 - [Analysis II Miniskript](https://github.com/JoKaBus/ANAII2021/blob/main/AnalysisIIMiniskript.pdf):
 Stand: 05.09.2022, 10:00 Uhr.
+
+> Das Miniskript ist spätestens am nächsten Morgen nach der Sitzung auf den aktuellen Stand.
 
 ## Zeitplan
 Wir treffen uns vom 12.09 bis 16.09 um 10:00 im Hörsaal 25.22 - HS 5H.
@@ -18,7 +21,7 @@ Wir treffen uns vom 12.09 bis 16.09 um 10:00 im Hörsaal 25.22 - HS 5H.
 ### Montag, 12.09.2022, 10:00 - 16:00: Differentialrechnung
 Themen: Metrik, Norm, Topologie, Skalarprodukt, Differenzierbarkeit
 
- [ ] Aufgabe 8.1.0
+- [ ] Aufgabe 8.1.0
 - [ ] Aufgabe 8.1.1
 - [ ] Aufgabe 8.1.2
 - [ ] Aufgabe 8.1.3
