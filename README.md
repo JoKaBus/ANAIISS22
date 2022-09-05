@@ -5,7 +5,7 @@ Seite zum Tutorium vom 12.09 bis 16.09 zur Vorbereitung auf die Analysis II Nach
 Kontakt: jonathan.busse(at)hhu.de
 ```
 
-Auf dieser Seite finden Sie Organisatorisches und ein Miniskript mit Definitionen, Sätze, Übungsaufgaben und Musterlösungen zu Differentialrechnung und gewöhnlichen Differentialgleichungen im Rn.
+Auf dieser Seite finden Sie das aktuelle Miniskript und alle Informationen zum Kursablauf.
 
 ## Kursmaterialien
 Definitionen, Sätze, Übungsaufgaben, Musterlösungen zu Differentialrechnung und gewöhnlichen Differentialgleichungen im Rn finden Sie im
