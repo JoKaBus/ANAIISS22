@@ -18,7 +18,7 @@ Wir treffen uns vom 12.09 bis 16.09 um 10:00 im Hörsaal 25.22 - HS 5H.
 ### Montag, 12.09.2022, 10:00 - 16:00: Differentialrechnung
 Themen: Metrik, Norm, Topologie, Skalarprodukt, Differenzierbarkeit
 
-- [ ] Aufgabe 8.1.0
+ [ ] Aufgabe 8.1.0
 - [ ] Aufgabe 8.1.1
 - [ ] Aufgabe 8.1.2
 - [ ] Aufgabe 8.1.3
