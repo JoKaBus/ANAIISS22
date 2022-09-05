@@ -14,7 +14,7 @@ Alle Übungsaufgaben mit Musterlösungen, sowie den wichtigsten Definitionen und
 (Stand: 05.09.2022, 10:00 Uhr)
 zusammengefasst.
 > Das Miniskript ist spätestens am nächsten Morgen nach der Sitzung auf den aktuellen Stand.
-> Um die Links im PDF anklicken zu können, müssen Sie die Datei erst rechts oben herunterladen.
+> Um die Links im PDF anklicken zu können, muss die Datei erst (rechts oben) heruntergeladen werden.
 
 ## Zeitplan
 Wir treffen uns vom 12.09 bis 16.09 um 10:00 im Hörsaal 25.22 - HS 5H.
