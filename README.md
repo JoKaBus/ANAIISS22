@@ -9,10 +9,10 @@ Auf dieser Seite findet ihr das aktuelle Miniskript und alle Informationen zum K
 Rückfragen könnt ihr mir per Mail oder im [Rocketchat](https://rocketchat.hhu.de/invite/dxCi6C) stellen.
 
 ## Kursmaterialien
-Definitionen, Sätze, Übungsaufgaben, Musterlösungen zu Differentialrechnung und gewöhnlichen Differentialgleichungen im Rn finden Sie im
+Alle Übungsaufgaben mit Musterlösungen, sowie den wichtigsten Definitionen und Sätzen zu Differentialrechnung und gewöhnlichen Differentialgleichungen sind im
 - [Analysis II Miniskript](https://github.com/JoKaBus/ANAIISS22/blob/main/skript/AnalysisIIMiniskript.pdf) 
 (Stand: 05.09.2022, 10:00 Uhr)
-
+zusammengefasst.
 > Das Miniskript ist spätestens am nächsten Morgen nach der Sitzung auf den aktuellen Stand.
 > Um die Links im PDF anklicken zu können, müssen Sie die Datei erst rechts oben herunterladen.
 
