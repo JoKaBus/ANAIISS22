@@ -19,7 +19,7 @@ Definitionen, Sätze, Übungsaufgaben, Musterlösungen zu Differentialrechnung u
 Wir treffen uns vom 12.09 bis 16.09 um 10:00 im Hörsaal 25.22 - HS 5H.
 
 ### Montag, 12.09.2022, 10:00 - 16:00: Differentialrechnung
-Themen: Metrik, Norm, Topologie, Skalarprodukt, Differenzierbarkeit
+> Metrik, Norm, Topologie, Skalarprodukt, Differenzierbarkeit
 
 - [ ] Aufgabe 8.1.0
 - [ ] Aufgabe 8.1.1
@@ -29,13 +29,13 @@ Themen: Metrik, Norm, Topologie, Skalarprodukt, Differenzierbarkeit
 - [ ] Aufgabe 8.1.5
 
 ### Dienstag, 13.09.2022; 10:00 - 16:00: Differentialrechnung
-Themen: Differenzierbarkeit, Kettenregel, Satz von Taylor, Extrema
+> Differenzierbarkeit, Kettenregel, Satz von Taylor, Extrema
 
 ### Mittwoch, 14.09.2022; 10:00 - 14:00: Differentialrechnung, Differentialgleichung
-Themen: Satz über implizite Funktionen, Lagrang-Multiplikatoren, Differentation unterm Integral, Klassifikation und Lösungsmethoden gewöhnlicher Differentialgleichungen
+> Satz über implizite Funktionen, Lagrang-Multiplikatoren, Differentation unterm Integral, Klassifikation und Lösungsmethoden gewöhnlicher Differentialgleichungen
 
 ### Donnerstag, 15.09.2022; 10:00 - 16:00: Differentialgleichung
-Themen: Phasenräume, Fundamentalsystem
+> Phasenräume, Fundamentalsystem
 
 ### Freitag, 16.09.2022; 10:00 - 15:00: Probeklausur
-Themen: Nachbesprechung von Wunschthemen, Klausurtipps
+> Nachbesprechung von Wunschthemen, Klausurtipps
