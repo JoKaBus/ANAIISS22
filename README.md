@@ -11,7 +11,7 @@ Rückfragen könnt ihr mir per Mail oder im [Rocketchat](https://rocketchat.hhu.
 ## Kursmaterialien
 Alle Übungsaufgaben mit Musterlösungen, sowie den wichtigsten Definitionen und Sätzen zu Differentialrechnung und gewöhnlichen Differentialgleichungen sind im
 - [Analysis II Miniskript](https://github.com/JoKaBus/ANAIISS22/blob/main/skript/AnalysisIIMiniskript.pdf) 
-(Stand: 05.09.2022, 10:00 Uhr)
+(Stand: 12.09.2022, 15:30 Uhr)
 zusammengefasst.
 > Das Miniskript ist spätestens am nächsten Morgen nach der Sitzung auf den aktuellen Stand.
 > Um die Links im PDF anklicken zu können, muss die Datei erst (rechts oben) heruntergeladen werden.
@@ -20,14 +20,15 @@ zusammengefasst.
 Wir treffen uns vom 12.09 bis 16.09 um 10:00 im Hörsaal 25.22 - HS 5H.
 
 ### Montag, 12.09.2022, 10:00 - 16:00: Differentialrechnung
-> Metrik, Norm, Topologie, Skalarprodukt, Differenzierbarkeit
+> Metrik, Norm, Topologie, Skalarprodukt, Stetigkeit, Kompaktheit
 
-- [ ] Aufgabe 8.1.0
-- [ ] Aufgabe 8.1.1
-- [ ] Aufgabe 8.1.2
-- [ ] Aufgabe 8.1.3
-- [ ] Aufgabe 8.1.4
-- [ ] Aufgabe 8.1.5
+- [x] Aufgabe 8.1.0
+- [x] Aufgabe 8.1.1
+- [x] Aufgabe 8.1.2
+- [x] Aufgabe 8.1.3
+- [x] Aufgabe 8.1.4
+- [x] Aufgabe 8.1.5
+- [x] Aufgabe 8.1.6
 
 ### Dienstag, 13.09.2022; 10:00 - 16:00: Differentialrechnung
 > Differenzierbarkeit, Kettenregel, Satz von Taylor, Extrema
