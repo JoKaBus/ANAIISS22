@@ -13,6 +13,7 @@ Alle Übungsaufgaben mit Musterlösungen, sowie den wichtigsten Definitionen und
 - [Analysis II Miniskript](https://github.com/JoKaBus/ANAIISS22/blob/main/skript/AnalysisIIMiniskript.pdf) 
 (Stand: 12.09.2022, 15:30 Uhr)
 zusammengefasst.
+
 > Das Miniskript ist spätestens am nächsten Morgen nach der Sitzung auf den aktuellen Stand.
 > Um die Links im PDF anklicken zu können, muss die Datei erst (rechts oben) heruntergeladen werden.
 
