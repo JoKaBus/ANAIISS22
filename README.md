@@ -34,6 +34,14 @@ Wir treffen uns vom 12.09 bis 16.09 um 10:00 im Hörsaal 25.22 - HS 5H.
 ### Dienstag, 13.09.2022; 10:00 - 16:00: Differentialrechnung
 > Differenzierbarkeit, Kettenregel, Satz von Taylor, Extrema
 
+- [ ] Aufgabe 8.1.7
+- [ ] Aufgabe 8.1.8
+- [ ] Aufgabe 8.1.9
+- [ ] Aufgabe 8.1.10
+- [ ] Aufgabe 8.1.11
+- [ ] Aufgabe 8.1.12
+- [ ] Aufgabe 8.1.13
+
 ### Mittwoch, 14.09.2022; 10:00 - 14:00: Differentialrechnung, Differentialgleichung
 > Satz über implizite Funktionen, Lagrang-Multiplikatoren, Differentation unterm Integral, Klassifikation und Lösungsmethoden gewöhnlicher Differentialgleichungen
 
