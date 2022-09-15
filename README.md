@@ -23,7 +23,7 @@ Wir treffen uns vom 12.09 bis 16.09 um 10:00 im Hörsaal 25.22 - HS 5H.
 ### Montag, 12.09.2022, 10:00 - 16:00: Differentialrechnung
 > Metrik, Norm, Topologie, Skalarprodukt, Stetigkeit, Kompaktheit
 
-- [x] Aufgabe 8.1.0
+- [ ] Aufgabe 8.1.0
 - [x] Aufgabe 8.1.1
 - [x] Aufgabe 8.1.2
 - [x] Aufgabe 8.1.3
@@ -32,21 +32,31 @@ Wir treffen uns vom 12.09 bis 16.09 um 10:00 im Hörsaal 25.22 - HS 5H.
 - [x] Aufgabe 8.1.6
 
 ### Dienstag, 13.09.2022; 10:00 - 16:00: Differentialrechnung
-> Differenzierbarkeit, Kettenregel, Satz von Taylor, Extrema
+> Differenzierbarkeit, Kettenregel, Satz von Taylor
 
-- [ ] Aufgabe 8.1.7
-- [ ] Aufgabe 8.1.8
-- [ ] Aufgabe 8.1.9
-- [ ] Aufgabe 8.1.10
-- [ ] Aufgabe 8.1.11
-- [ ] Aufgabe 8.1.12
+- [x] Aufgabe 8.1.7
+- [x] Aufgabe 8.1.8
+- [x] Aufgabe 8.1.9
+- [x] Aufgabe 8.1.10
+- [x] Aufgabe 8.1.11
+- [x] Aufgabe 8.1.12
 - [ ] Aufgabe 8.1.13
 
 ### Mittwoch, 14.09.2022; 10:00 - 14:00: Differentialrechnung, Differentialgleichung
-> Satz über implizite Funktionen, Lagrang-Multiplikatoren, Differentation unterm Integral, Klassifikation und Lösungsmethoden gewöhnlicher Differentialgleichungen
+> Extrema, Satz über implizite Funktionen, Lagrang-Multiplikatoren, Differentation unterm Integral
+
+- [x] Aufgabe 8.1.13
+- [x] Aufgabe 8.1.14
+- [x] Aufgabe 8.1.15
+- [x] Aufgabe 8.1.16
 
 ### Donnerstag, 15.09.2022; 10:00 - 16:00: Differentialgleichung
-> Phasenräume, Fundamentalsystem
+> Klassifikation und Lösungsmethoden für gewöhnliche Differentialgleichungen, Phasenräume
+- [ ] Aufgabe 2.4.1
+- [ ] Aufgabe 2.4.2
+- [ ] Aufgabe 2.4.3
 
 ### Freitag, 16.09.2022; 10:00 - 15:00: Probeklausur
-> Nachbesprechung von Wunschthemen, Klausurtipps
+> Fundamentalsystem, Nachbesprechung von Wunschthemen, Übungsklausur
+
+- [ ] Übungsklausur
