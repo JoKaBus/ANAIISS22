@@ -11,7 +11,7 @@ Rückfragen könnt ihr mir per Mail oder im [Rocketchat](https://rocketchat.hhu.
 ## Kursmaterialien
 Alle Übungsaufgaben mit Musterlösungen, sowie den wichtigsten Definitionen und Sätzen zu Differentialrechnung und gewöhnlichen Differentialgleichungen sind im
 - [Analysis II Miniskript](https://github.com/JoKaBus/ANAIISS22/blob/main/skript/AnalysisIIMiniskript.pdf) 
-(Stand: 15.09.2022, 11:44 Uhr)
+(Stand: 16.09.2022, 14:41 Uhr)
 zusammengefasst.
 
 - [Probeklausur](https://github.com/JoKaBus/ANAIISS22/blob/main/skript/probeklausur.pdf) 
