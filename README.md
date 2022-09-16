@@ -14,6 +14,9 @@ Alle Übungsaufgaben mit Musterlösungen, sowie den wichtigsten Definitionen und
 (Stand: 15.09.2022, 11:44 Uhr)
 zusammengefasst.
 
+- [Probeklausur](https://github.com/JoKaBus/ANAIISS22/blob/main/skript/probeklausur.pdf) 
+
+
 > Das Miniskript ist spätestens am nächsten Morgen nach der Sitzung auf den aktuellen Stand.
 > Um die Links im PDF anklicken zu können, muss die Datei erst (rechts oben) heruntergeladen werden.
 
