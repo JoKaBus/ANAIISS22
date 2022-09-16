@@ -55,11 +55,11 @@ Wir treffen uns vom 12.09 bis 16.09 um 10:00 im Hörsaal 25.22 - HS 5H.
 
 ### Donnerstag, 15.09.2022; 10:00 - 16:00: Differentialgleichung
 > Klassifikation und Lösungsmethoden für gewöhnliche Differentialgleichungen, Phasenräume
-- [ ] Aufgabe 2.4.1
-- [ ] Aufgabe 2.4.2
-- [ ] Aufgabe 2.4.3
+- [x] Aufgabe 2.4.1
+- [x] Aufgabe 2.4.2
+- [x] Aufgabe 2.4.3
 
 ### Freitag, 16.09.2022; 10:00 - 15:00: Probeklausur
 > Fundamentalsystem, Nachbesprechung von Wunschthemen, Übungsklausur
-
-- [ ] Übungsklausur
+- [x] Aufgabe 2.5.6
+- [x] Probeklausur
